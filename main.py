@@ -8,7 +8,7 @@ from telegram import Update, Poll
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, PollAnswerHandler
 
 # --- CONFIG ---
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("8256328585:AAFRcSR0pxfHIyVrJQGpUIrbOOQ7gIcY0cE")
 ADMIN_IDS = [8394878208, 7231324244]
 QUIZ_INTERVAL = 4 * 60  # 4 ደቂቃ
 
